@@ -1,0 +1,3 @@
+code market
+code store
+code bakery
